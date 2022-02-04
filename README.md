@@ -7,10 +7,7 @@ This is Faysal Hossain from Dhaka-Bangladesh I'm a software engineer. I've compl
 
 **Ask me anything about→**
 
-  <img src='https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white' height='25'/> 
- <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/>
-  <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/>
-  <img src='https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white' height='25'/>
+<img src='https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white' height='25'/>  <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/><img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/><img src='https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white' height='25'/>
   
   **Reach out to me at →**
 
