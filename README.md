@@ -12,9 +12,6 @@ This is Faysal Hossain from Dhaka-Bangladesh I'm a software engineer. I've compl
   **Reach out to me at →**
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fsfaysalcse/)[![Twitter: Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fsfaysalcse)[![Facebook Follow](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fsfaysalcse/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fsfoysal15@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-
-
 <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api?username=fsfaysalcse&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=25&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsfaysalcse&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
 </p>
