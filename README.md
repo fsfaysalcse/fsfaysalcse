@@ -1,5 +1,5 @@
 
-## About myself!
+## About Myself!
 
 ### Hi there 👋
 
