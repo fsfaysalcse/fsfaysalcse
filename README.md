@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-This is Faysal Hossain from Dhaka-Bangladesh I'm a software engineer. I've completed my diploma from the Computer Science and Engineering Department (CMT). I have good knowledge of Java, Android, Kotlin, Python, Django, DRF. I'm not an expert at all, but I know how to implement well-structured use projects and search google smartly.
+Faysal Hossain here from Dhaka, Bangladesh. I work as a software engineer. I received my diploma from the Department of Computer Science and Engineering (CMT). I am proficient in Java, Android, Kotlin, and C++. I am not a specialist in any way, but I do know how to create well-structured usage projects and conduct effective Google searches.
 
 **Ask me anything about→**
 
