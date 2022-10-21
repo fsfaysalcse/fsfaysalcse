@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Faysal Hossain here from Dhaka, Bangladesh. I work as a software engineer. I received my diploma from the Department of Computer Science and Engineering (CMT). I am proficient in Java, Android, Kotlin, and C++. I am not a specialist in any way, but I do know how to create well-structured usage projects and conduct effective Google searches.
+Faysal Hossain here from Kuala Lumpur, Malaysia. I work as a Software Engineer (Android Developer). I study at Taylor's University in Computer Science. I've worked on mobile applications for over five years and am skilled in Java, Android, Kotlin, and C++. I know how to create well-structured usage projects and conduct effective Google searches. I'm a hard worker and can work efficiently with little or no supervision. I'm passionate about learning new technologies and improving my skills. I'm a fast learner and can quickly pick up new technologies. I have good communication skills and can work well in teams or independently.
 
 **Ask me anything about→**
 
