@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Faysal Hossain here from Kuala Lumpur, Malaysia. I work as a Software Engineer (Android Developer). I study at Taylor's University in Computer Science. I've worked on mobile applications for over six years and am skilled in Java, Android, Kotlin, and C++. I know how to create well-structured usage projects and conduct effective Google searches. I'm a hard worker and can work efficiently with little or no supervision. I'm passionate about learning new technologies and improving my skills. I'm a fast learner and can quickly pick up new technologies. I have good communication skills and can work well in teams or independently.
+Hi, I'm Faysal Hossain, a Software Engineer with 8+ years of experience in Android development. I'm currently studying Computer Science at Taylor's University. I'm skilled in Kotlin, Python, and C++, and have a strong understanding of software engineering principles. I have a proven track record of creating high-quality, well-structured software projects and I'm always striving to stay up-to-date with the latest technologies. I work efficiently with little supervision and have excellent communication and collaboration skills.
 
 **Ask me anything about→**
 
