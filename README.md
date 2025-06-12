@@ -3,9 +3,16 @@
 
 ### Hi there 👋
 
-Hi, I'm Faysal Hossain, a Software Engineer with 8+ years of experience in Android development. I'm currently studying Computer Science at Taylor's University. I'm skilled in Kotlin, Python, and C++, and have a strong understanding of software engineering principles. I have a proven track record of creating high-quality, well-structured software projects and I'm always striving to stay up-to-date with the latest technologies. I work efficiently with little supervision and have excellent communication and collaboration skills.
+👋 Hi, I’m Faysal Hossain — a passionate Senior Android Developer from Bangladesh 🇧🇩
+📱 10+ years of experience in building high-quality native Android apps using Kotlin, Java, and Jetpack Compose
+🧠 Also working with KMP (Kotlin Multiplatform) and interested in cross-platform solutions
+💡 I love solving real-world problems with clean architecture and beautiful UI/UX
+🔧 Skilled in REST APIs, Firebase, Room, DI (Hilt), and background task management
+🎓 Diploma in Computer Technology | Constantly learning through real-world projects
+🌍 Open to remote opportunities and collaboration!
 
-**Ask me anything about→**
+
+**📫 Ask me anything about→**
 
 <img src='https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white' height='25'/><img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='25'/><img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='25'/><img src='https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white' height='25'/>
   
